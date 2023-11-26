@@ -4,7 +4,7 @@
 
 《原神》是一款由 miHoYo（米哈游）开发的开放世界动作角色扮演游戏（ARPG），于2020年9月28日全球上线。这款游戏在全球范围内受到了玩家的热烈欢迎，以其精美的画面、丰富的剧情和创新性的玩法而备受赞誉。
 
-![原神](https://example.com/original_sin_banner.jpg)
+![原神](https://www.bing.com/images/search?view=detailV2&ccid=ZFpbrrY2&id=433DC6EBC602D39D73F0FEC56B93F2EA66BC2661&thid=OIP.ZFpbrrY2I7f4gxsVu8GlLQHaFP&mediaurl=https%3a%2f%2fimages8.alphacoders.com%2f111%2f1114943.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.645a5baeb63623b7f8831b15bbc1a52d%3frik%3dYSa8Zuryk2vF%252fg%26pid%3dImgRaw%26r%3d0&exph=2480&expw=3508&q=%e5%8e%9f%e7%a5%9e%e5%9b%be%e7%89%87&simid=607996189479617036&FORM=IRPRST&ck=0D95E42BD5C68348BE78A16040713910&selectedIndex=5)
 
 ## 游戏特点
 
